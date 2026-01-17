@@ -18,15 +18,15 @@ I’m language-agnostic and delight in building short feedback loops that evoke 
 ---
 
 ## Authorship
-[Trustworthy Productivity: Securing AI Agents](https://www.infoq.com/articles/secure-ai-development/)
-[Keep the Terminal Relevant: Patterns for AI Agent Driven CLIs](https://www.infoq.com/articles/ai-agent-cli/)
-[The Hidden World of Exit Codes: Tiny Integers With Big Meanings](https://dzone.com/articles/exit-codes-unix-cli-guide)
-[Partitioning Large Messages and Normalizing Workloads Can Boost Your Data Ingestion](https://hackernoon.com/partitioning-large-messages-and-normalizing-workloads-can-boost-your-aws-cloudwatch-ingestion)
+* [Trustworthy Productivity: Securing AI Agents](https://www.infoq.com/articles/secure-ai-development/)
+* [Keep the Terminal Relevant: Patterns for AI Agent Driven CLIs](https://www.infoq.com/articles/ai-agent-cli/)
+* [The Hidden World of Exit Codes: Tiny Integers With Big Meanings](https://dzone.com/articles/exit-codes-unix-cli-guide)
+* [Partitioning Large Messages and Normalizing Workloads Can Boost Your Data Ingestion](https://hackernoon.com/partitioning-large-messages-and-normalizing-workloads-can-boost-your-aws-cloudwatch-ingestion)
 
 ## Speaking
 
-[The CLI Renaissance: Why Command Lines Matter in the Age of AI and the Promise of MCP](https://pretalx.seagl.org/2025/talk/9PWA3Q/)
-[Trustworthy Productivity: Securing AI-Accelerated Development](https://qconsf.com/presentation/nov2025/trustworthy-productivity-securing-ai-accelerated-development)
+* [The CLI Renaissance: Why Command Lines Matter in the Age of AI and the Promise of MCP](https://pretalx.seagl.org/2025/talk/9PWA3Q/)
+* [Trustworthy Productivity: Securing AI-Accelerated Development](https://qconsf.com/presentation/nov2025/trustworthy-productivity-securing-ai-accelerated-development)
 
 ## 🚀 Connect with me
 
