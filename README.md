@@ -2,7 +2,7 @@
 
 I’m a Senior Engineer at AWS focused on building **agent-ready developer experiences**. 
 
-I was part of the founding team and currently lead the Dataplane on [AWS DevOps Agent](https://aws.amazon.com/devops-agent/)
+I'm part of the founding team and currently lead the Dataplane on [AWS DevOps Agent](https://aws.amazon.com/devops-agent/)
 
 Over the past decade, I’ve worked on large-scale platforms and open-source tooling:
 
