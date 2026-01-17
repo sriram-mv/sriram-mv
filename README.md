@@ -1,13 +1,16 @@
 # Hi there, I’m Sriram Madapusi Vasudevan 👋
 
-I’m a Senior Engineer at AWS focused on building **agent-ready developer experiences**. Over the past decade, I’ve worked on large-scale platforms and open-source tooling:
+I’m a Senior Engineer at AWS focused on building **agent-ready developer experiences**. 
+I was part of the founding team and currently lead the dataplane team on [AWS DevOps Agent](https://aws.amazon.com/devops-agent/)
 
-- AWS CloudWatch  
-- Rackspace Cloud Queues  (Openstack Zaqar)
-- Rackspace Cloud CDN  (Openstack Poppy)
+Over the past decade, I’ve worked on large-scale platforms and open-source tooling:
+
 - AWS SAM CLI  
 - AWS Lambda Builders  
 - AWS Homebrew Tap  
+- AWS CloudWatch  
+- Rackspace Cloud Queues  (Openstack Zaqar)
+- Rackspace Cloud CDN  (Openstack Poppy)
 
 I’m language-agnostic and delight in building short feedback loops that evoke emotion.
 
