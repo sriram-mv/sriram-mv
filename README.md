@@ -28,6 +28,9 @@ I’m language-agnostic and delight in building short feedback loops that evoke 
 * [The CLI Renaissance: Why Command Lines Matter in the Age of AI and the Promise of MCP](https://pretalx.seagl.org/2025/talk/9PWA3Q/)
 * [Trustworthy Productivity: Securing AI-Accelerated Development](https://qconsf.com/presentation/nov2025/trustworthy-productivity-securing-ai-accelerated-development)
 
+## Video 
+* [Trustworthy Productivity at QCon SF 2025](https://www.infoq.com/presentations/ai-development/)
+
 ## 🚀 Connect with me
 
 - 🌐 Personal website: [srirammv.dev](https://www.srirammv.dev)  
